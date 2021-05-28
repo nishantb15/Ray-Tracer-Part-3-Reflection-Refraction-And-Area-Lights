@@ -1,0 +1,16 @@
+Implementation language: C/C++
+Hardware info: I am using the linux virtual machine located in the ews lab using a remote connection. The virtual machine provides lag and the remote connection essentially doubles it. I am not familiar with the hardware capabilities. Could not find any info online either. (Same circumstance as MP2).
+
+TABLE:
+arealights12.ppm:
+Number of Rays casted = 206,810,815 (~206 million rays)
+Time taken (s) = 285.401s
+
+metalglassbigger.ppm:
+Number of Rays casted = 200,068,498 (~200 million rays)
+Time taken (s) = 332.703s
+
+glassmetal1.ppm:
+Number of Rays casted = 44,107,022 (~44 million rays)
+Time taken (s) = 48.806s
+
